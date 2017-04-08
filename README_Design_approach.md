@@ -9,5 +9,5 @@ Jess' Design approach
 - solution: solar, battery diesel
 
 Xiaobin's Design approach
--Lit Review of solar, wind, battery and Homer software
--solution: solar, wind, and battery
+- Lit Review of solar, wind, battery and Homer software
+- solution: solar, wind, and battery
