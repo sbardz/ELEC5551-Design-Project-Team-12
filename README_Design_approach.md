@@ -7,3 +7,7 @@ Steven's Design approach
 Jess' Design approach
 - lit review of wave/wind power, diesel generators and cooling system
 - solution: solar, battery diesel
+
+Xiaobin's Design approach
+-Lit Review of solar, wind, battery and Homer software
+-solution: solar, wind, and battery
